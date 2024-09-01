@@ -35,6 +35,6 @@ Start the trading system or a simulation:
   python main.py
   ```
 
-4. **Usage**
+## Usage
 - Live Trading: Connect the system to a supported broker's API for real-time trading.
 - Backtesting: Run the simulation mode using historical data to test and refine trading strategies before deploying them in a live environment.
