@@ -1,0 +1,27 @@
+From /home/hyejin.won.conda/anaconda3/envs/DLCourse/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From /home/hyejin.won.conda/anaconda3/envs/DLCourse/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[005930][Episode 0/20] Epsilon:0.5000 #Buy:496 #Sell:286 #Hold:1276 #Stocks:1968.0 PV:104,346,159 Reward:125752.888 Loss:72326.760 
+[005930][Episode 1/20] Epsilon:0.4737 #Buy:343 #Sell:263 #Hold:1452 #Stocks:2968.0 PV:157,338,953 Reward:259023.068 Loss:840.111 
+[005930][Episode 2/20] Epsilon:0.4474 #Buy:627 #Sell:643 #Hold:788 #Stocks:0.0 PV:73,739,022 Reward:-20416.855 Loss:222.565 
+[005930][Episode 3/20] Epsilon:0.4211 #Buy:528 #Sell:439 #Hold:1091 #Stocks:2018.0 PV:107,001,901 Reward:146425.516 Loss:742.189 
+[005930][Episode 4/20] Epsilon:0.3947 #Buy:175 #Sell:105 #Hold:1778 #Stocks:3116.0 PV:165,192,282 Reward:273165.078 Loss:63.231 
+[005930][Episode 5/20] Epsilon:0.3684 #Buy:439 #Sell:365 #Hold:1254 #Stocks:2823.0 PV:149,635,310 Reward:243954.951 Loss:118.104 
+[005930][Episode 6/20] Epsilon:0.3421 #Buy:312 #Sell:245 #Hold:1501 #Stocks:2484.0 PV:131,681,871 Reward:193336.107 Loss:36.828 
+[005930][Episode 7/20] Epsilon:0.3158 #Buy:502 #Sell:435 #Hold:1121 #Stocks:2416.0 PV:128,068,448 Reward:189308.665 Loss:120.214 
+[005930][Episode 8/20] Epsilon:0.2895 #Buy:265 #Sell:212 #Hold:1581 #Stocks:2419.0 PV:128,215,662 Reward:185203.296 Loss:33.651 
+[005930][Episode 9/20] Epsilon:0.2632 #Buy:147 #Sell:92 #Hold:1819 #Stocks:2657.0 PV:140,832,256 Reward:212309.366 Loss:18.844 
+[005930][Episode 10/20] Epsilon:0.2368 #Buy:396 #Sell:364 #Hold:1298 #Stocks:1384.0 PV:73,365,072 Reward:58534.617 Loss:221.121 
+[005930][Episode 11/20] Epsilon:0.2105 #Buy:322 #Sell:271 #Hold:1465 #Stocks:2283.0 PV:121,005,131 Reward:167883.770 Loss:28.288 
+[005930][Episode 12/20] Epsilon:0.1842 #Buy:399 #Sell:356 #Hold:1303 #Stocks:805.0 PV:76,475,189 Reward:74763.547 Loss:46805.032 
+[005930][Episode 13/20] Epsilon:0.1579 #Buy:240 #Sell:219 #Hold:1599 #Stocks:0.0 PV:129,858,173 Reward:-375657.333 Loss:119755.271 
+[005930][Episode 14/20] Epsilon:0.1316 #Buy:322 #Sell:277 #Hold:1459 #Stocks:1155.0 PV:61,215,873 Reward:19102.669 Loss:188.620 
+[005930][Episode 15/20] Epsilon:0.1053 #Buy:72 #Sell:28 #Hold:1958 #Stocks:3112.0 PV:167,813,784 Reward:278342.411 Loss:108.426 
+[005930][Episode 16/20] Epsilon:0.0789 #Buy:364 #Sell:316 #Hold:1378 #Stocks:3568.0 PV:189,125,315 Reward:338757.390 Loss:113.064 
+[005930][Episode 17/20] Epsilon:0.0526 #Buy:71 #Sell:20 #Hold:1967 #Stocks:3173.0 PV:168,175,597 Reward:278034.315 Loss:78.286 
+[005930][Episode 18/20] Epsilon:0.0263 #Buy:69 #Sell:13 #Hold:1976 #Stocks:3162.0 PV:167,628,696 Reward:276471.217 Loss:47.131 
+[005930][Episode 19/20] Epsilon:0.0000 #Buy:60 #Sell:1 #Hold:1997 #Stocks:3160.0 PV:167,492,098 Reward:275731.506 Loss:604.071 
+[005930] Max PV:189,125,315
+EPISODES Finished. Model saved

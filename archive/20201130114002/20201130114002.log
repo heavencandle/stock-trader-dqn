@@ -1,0 +1,57 @@
+From /home/hyejin.won.conda/anaconda3/envs/DLCourse/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From /home/hyejin.won.conda/anaconda3/envs/DLCourse/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[005930][Episode 0/50] Epsilon:0.5000 #Buy:494 #Sell:346 #Hold:1218 #Stocks:1258.0 PV:90,958,655 Reward:98376.691 Loss:20197.128 
+[005930][Episode 1/50] Epsilon:0.4898 #Buy:691 #Sell:680 #Hold:687 #Stocks:2083.0 PV:110,685,091 Reward:64734.962 Loss:803.222 
+[005930][Episode 2/50] Epsilon:0.4796 #Buy:519 #Sell:467 #Hold:1072 #Stocks:2048.0 PV:108,553,584 Reward:142041.719 Loss:196.956 
+[005930][Episode 3/50] Epsilon:0.4694 #Buy:86 #Sell:24 #Hold:1948 #Stocks:3124.0 PV:165,588,096 Reward:271640.526 Loss:52.140 
+[005930][Episode 4/50] Epsilon:0.4592 #Buy:592 #Sell:551 #Hold:915 #Stocks:1559.0 PV:84,889,730 Reward:84543.863 Loss:29.910 
+[005930][Episode 5/50] Epsilon:0.4490 #Buy:700 #Sell:671 #Hold:687 #Stocks:999.0 PV:65,475,929 Reward:41867.808 Loss:857.214 
+[005930][Episode 6/50] Epsilon:0.4388 #Buy:377 #Sell:305 #Hold:1376 #Stocks:3065.0 PV:162,469,140 Reward:274142.412 Loss:78.557 
+[005930][Episode 7/50] Epsilon:0.4286 #Buy:543 #Sell:465 #Hold:1050 #Stocks:3081.0 PV:163,301,912 Reward:284283.979 Loss:84.315 
+[005930][Episode 8/50] Epsilon:0.4184 #Buy:527 #Sell:456 #Hold:1075 #Stocks:2981.0 PV:160,008,566 Reward:598250.389 Loss:88.078 
+[005930][Episode 9/50] Epsilon:0.4082 #Buy:154 #Sell:80 #Hold:1824 #Stocks:3092.0 PV:163,902,239 Reward:268458.859 Loss:8.852 
+[005930][Episode 10/50] Epsilon:0.3980 #Buy:249 #Sell:189 #Hold:1620 #Stocks:3117.0 PV:165,239,400 Reward:275645.639 Loss:84.926 
+[005930][Episode 11/50] Epsilon:0.3878 #Buy:544 #Sell:507 #Hold:1007 #Stocks:845.0 PV:129,840,102 Reward:-384763.703 Loss:74463.159 
+[005930][Episode 12/50] Epsilon:0.3776 #Buy:520 #Sell:463 #Hold:1075 #Stocks:1539.0 PV:81,573,961 Reward:72534.189 Loss:41.413 
+[005930][Episode 13/50] Epsilon:0.3673 #Buy:503 #Sell:445 #Hold:1110 #Stocks:2258.0 PV:119,722,612 Reward:168624.534 Loss:29.048 
+[005930][Episode 14/50] Epsilon:0.3571 #Buy:551 #Sell:476 #Hold:1031 #Stocks:1.0 PV:82,374,902 Reward:-184049.156 Loss:22548.018 
+[005930][Episode 15/50] Epsilon:0.3469 #Buy:513 #Sell:415 #Hold:1130 #Stocks:0.0 PV:106,359,314 Reward:-166565.245 Loss:988153.413 
+[005930][Episode 16/50] Epsilon:0.3367 #Buy:590 #Sell:461 #Hold:1007 #Stocks:569.0 PV:113,797,043 Reward:-333964.140 Loss:2791998.639 
+[005930][Episode 17/50] Epsilon:0.3265 #Buy:533 #Sell:430 #Hold:1095 #Stocks:1633.0 PV:86,558,415 Reward:81034.463 Loss:649238.746 
+[005930][Episode 18/50] Epsilon:0.3163 #Buy:240 #Sell:217 #Hold:1601 #Stocks:428.0 PV:160,525,789 Reward:-8832763.694 Loss:6689412.279 
+[005930][Episode 19/50] Epsilon:0.3061 #Buy:341 #Sell:312 #Hold:1405 #Stocks:0.0 PV:88,218,347 Reward:-136664.365 Loss:2382376.143 
+[005930][Episode 20/50] Epsilon:0.2959 #Buy:554 #Sell:444 #Hold:1060 #Stocks:3.0 PV:111,053,187 Reward:-132197.218 Loss:75657.542 
+[005930][Episode 21/50] Epsilon:0.2857 #Buy:415 #Sell:356 #Hold:1287 #Stocks:1.0 PV:74,468,239 Reward:-143604.684 Loss:99224.954 
+[005930][Episode 22/50] Epsilon:0.2755 #Buy:641 #Sell:510 #Hold:907 #Stocks:1967.0 PV:104,264,560 Reward:-15376944.829 Loss:1621269.402 
+[005930][Episode 23/50] Epsilon:0.2653 #Buy:411 #Sell:414 #Hold:1233 #Stocks:897.0 PV:110,949,808 Reward:-316908.570 Loss:27676.048 
+[005930][Episode 24/50] Epsilon:0.2551 #Buy:391 #Sell:344 #Hold:1323 #Stocks:1787.0 PV:94,745,722 Reward:102825.046 Loss:373.538 
+[005930][Episode 25/50] Epsilon:0.2449 #Buy:435 #Sell:365 #Hold:1258 #Stocks:682.0 PV:79,577,970 Reward:128379.371 Loss:681581.579 
+[005930][Episode 26/50] Epsilon:0.2347 #Buy:275 #Sell:241 #Hold:1542 #Stocks:1813.0 PV:96,089,861 Reward:102876.529 Loss:1766.712 
+[005930][Episode 27/50] Epsilon:0.2245 #Buy:94 #Sell:48 #Hold:1916 #Stocks:3156.0 PV:167,268,576 Reward:275543.581 Loss:110.226 
+[005930][Episode 28/50] Epsilon:0.2143 #Buy:635 #Sell:616 #Hold:807 #Stocks:915.0 PV:75,633,603 Reward:-40698.212 Loss:153592.041 
+[005930][Episode 29/50] Epsilon:0.2041 #Buy:193 #Sell:138 #Hold:1727 #Stocks:1662.0 PV:88,099,133 Reward:83134.453 Loss:1418.860 
+[005930][Episode 30/50] Epsilon:0.1939 #Buy:432 #Sell:393 #Hold:1233 #Stocks:2963.0 PV:159,770,751 Reward:268820.862 Loss:202.463 
+[005930][Episode 31/50] Epsilon:0.1837 #Buy:284 #Sell:226 #Hold:1548 #Stocks:3113.0 PV:165,000,758 Reward:274229.249 Loss:21.511 
+[005930][Episode 32/50] Epsilon:0.1735 #Buy:519 #Sell:507 #Hold:1032 #Stocks:940.0 PV:114,848,738 Reward:-151078.091 Loss:369314.639 
+[005930][Episode 33/50] Epsilon:0.1633 #Buy:59 #Sell:15 #Hold:1984 #Stocks:3181.0 PV:168,594,886 Reward:278987.455 Loss:73.643 
+[005930][Episode 34/50] Epsilon:0.1531 #Buy:283 #Sell:245 #Hold:1530 #Stocks:2565.0 PV:135,956,967 Reward:201586.853 Loss:1603.548 
+[005930][Episode 35/50] Epsilon:0.1429 #Buy:444 #Sell:453 #Hold:1161 #Stocks:0.0 PV:114,331,370 Reward:-125921.934 Loss:655.822 
+[005930][Episode 36/50] Epsilon:0.1327 #Buy:432 #Sell:401 #Hold:1225 #Stocks:674.0 PV:75,619,471 Reward:82144.444 Loss:1143.546 
+[005930][Episode 37/50] Epsilon:0.1224 #Buy:487 #Sell:426 #Hold:1145 #Stocks:2913.0 PV:154,399,781 Reward:253808.052 Loss:43005.460 
+[005930][Episode 38/50] Epsilon:0.1122 #Buy:150 #Sell:115 #Hold:1793 #Stocks:2172.0 PV:115,155,863 Reward:149421.573 Loss:184.688 
+[005930][Episode 39/50] Epsilon:0.1020 #Buy:270 #Sell:211 #Hold:1577 #Stocks:2729.0 PV:144,637,736 Reward:223473.290 Loss:13.562 
+[005930][Episode 40/50] Epsilon:0.0918 #Buy:331 #Sell:280 #Hold:1447 #Stocks:2561.0 PV:135,764,999 Reward:204238.961 Loss:39.610 
+[005930][Episode 41/50] Epsilon:0.0816 #Buy:467 #Sell:440 #Hold:1151 #Stocks:1520.0 PV:85,642,171 Reward:5052875.417 Loss:2332.269 
+[005930][Episode 42/50] Epsilon:0.0714 #Buy:244 #Sell:210 #Hold:1604 #Stocks:1908.0 PV:101,137,043 Reward:119118.561 Loss:10.924 
+[005930][Episode 43/50] Epsilon:0.0612 #Buy:162 #Sell:105 #Hold:1791 #Stocks:2807.0 PV:148,784,210 Reward:232763.456 Loss:17.447 
+[005930][Episode 44/50] Epsilon:0.0510 #Buy:345 #Sell:330 #Hold:1383 #Stocks:706.0 PV:67,960,503 Reward:75414.177 Loss:514.184 
+[005930][Episode 45/50] Epsilon:0.0408 #Buy:85 #Sell:40 #Hold:1933 #Stocks:2153.0 PV:114,125,080 Reward:146403.885 Loss:11.268 
+[005930][Episode 46/50] Epsilon:0.0306 #Buy:123 #Sell:56 #Hold:1879 #Stocks:2958.0 PV:156,787,298 Reward:250550.435 Loss:4.224 
+[005930][Episode 47/50] Epsilon:0.0204 #Buy:90 #Sell:32 #Hold:1936 #Stocks:2876.0 PV:152,441,243 Reward:239812.063 Loss:54.039 
+[005930][Episode 48/50] Epsilon:0.0102 #Buy:209 #Sell:175 #Hold:1674 #Stocks:2182.0 PV:115,646,416 Reward:155107.828 Loss:36020.514 
+[005930][Episode 49/50] Epsilon:0.0010 #Buy:34 #Sell:0 #Hold:2024 #Stocks:3133.0 PV:166,049,221 Reward:272131.271 Loss:1722.950 
+[005930] Max PV:168,594,886
+EPISODES Finished. Model saved

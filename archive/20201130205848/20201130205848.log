@@ -1,0 +1,17 @@
+From /home/hyejin.won.conda/anaconda3/envs/DLCourse/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+From /home/hyejin.won.conda/anaconda3/envs/DLCourse/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+[005930][Episode 0/10] Epsilon:0.4950 #Buy:408 #Sell:214 #Hold:1436 #Stocks:845.0 PV:162,978,409 Reward:-136858.692 Loss:23266.008 
+[005930][Episode 1/10] Epsilon:0.4400 #Buy:621 #Sell:579 #Hold:858 #Stocks:1834.0 PV:97,242,280 Reward:277417.241 Loss:1022.031 
+[005930][Episode 2/10] Epsilon:0.3850 #Buy:559 #Sell:557 #Hold:942 #Stocks:1308.0 PV:92,978,047 Reward:114806.311 Loss:706.432 
+[005930][Episode 3/10] Epsilon:0.3300 #Buy:589 #Sell:564 #Hold:905 #Stocks:2589.0 PV:155,638,396 Reward:271222.523 Loss:1614.941 
+[005930][Episode 4/10] Epsilon:0.2750 #Buy:454 #Sell:402 #Hold:1202 #Stocks:0.0 PV:97,966,480 Reward:-104235.844 Loss:151584.609 
+[005930][Episode 5/10] Epsilon:0.2200 #Buy:212 #Sell:137 #Hold:1709 #Stocks:1670.0 PV:88,515,366 Reward:83935.244 Loss:64.131 
+[005930][Episode 6/10] Epsilon:0.1650 #Buy:327 #Sell:338 #Hold:1393 #Stocks:1696.0 PV:130,932,866 Reward:235534.760 Loss:5931.327 
+[005930][Episode 7/10] Epsilon:0.1100 #Buy:60 #Sell:13 #Hold:1985 #Stocks:3161.0 PV:167,543,967 Reward:275581.816 Loss:3.642 
+[005930][Episode 8/10] Epsilon:0.0550 #Buy:151 #Sell:106 #Hold:1801 #Stocks:2930.0 PV:157,169,487 Reward:-6165978.465 Loss:7045.836 
+[005930][Episode 9/10] Epsilon:0.0001 #Buy:44 #Sell:0 #Hold:2014 #Stocks:3164.0 PV:167,704,383 Reward:275872.895 Loss:45.487 
+[005930] Max PV:167,704,383
+EPISODES Finished. Model saved
