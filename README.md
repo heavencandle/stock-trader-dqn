@@ -25,16 +25,15 @@ This repository contains a Python-based stock trading system designed for automa
    ```
 
 2. **Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 3. **Run the System**
 Start the trading system or a simulation:
-```bash
-코드 복사
-python main.py
-```
+  ```bash
+  python main.py
+  ```
 
 4. **Usage**
 - Live Trading: Connect the system to a supported broker's API for real-time trading.
